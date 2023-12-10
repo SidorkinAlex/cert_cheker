@@ -1,0 +1,21 @@
+{
+    "name": "sidalex/cert_cheker",
+    "description": "chek date ssl certificate from list domian",
+    "type": "projekt",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sidalex\\CertChecker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SidAlex",
+            "email": "palach.orl@mail.ru"
+        }
+    ],
+    "require": {
+        "haydenpierce/class-finder": "^0.5.3",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
