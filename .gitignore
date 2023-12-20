@@ -1,2 +1,4 @@
 /cert_checker/vendor/
 /.idea/*
+/test.coverage.txt
+/unit.result.txt
